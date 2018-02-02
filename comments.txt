@@ -1,0 +1,10 @@
+Tran Le
+Hours: 18 (maybe, I can't remember)
+
+Comments: 
+- Learned about pointers being passed into a method means it's a copy of 
+  the pointer, which means you can't directly change what's the pointer
+  is pointing to. 
+- You can pass a method as a function parameter
+- You can't pass in a template function as the parameter of a template function
+- There's a math class function that returns you the max of two data types
